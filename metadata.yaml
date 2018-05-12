@@ -17,6 +17,8 @@ covers:
 - cover_type: archival
   image_path: 44962-h/images/cover-page.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44962#Early-American-Poetry-1610-1820A-List-of-Works-in-the-New-York-Public-Library
 gutenberg_issued: '2014-02-19'
 gutenberg_type: Text
 identifiers:
