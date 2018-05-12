@@ -1,0 +1,35 @@
+_repo: Early-American-Poetry-1610-1820A-List-of-Works-in-the-New-York-Public-Library_44962
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Frank, John Christian
+    gutenberg_agent_id: '44827'
+    url: http://www.gutenberg.org/2009/agents/44827
+  publisher_contributor:
+    agent_name: New York Public Library
+    aliases:
+    - Library, New York Public
+    - New York (City). Public Library
+    - New York (N.Y.). Public Library
+    gutenberg_agent_id: '33035'
+    url: http://www.gutenberg.org/2009/agents/33035
+covers:
+- cover_type: archival
+  image_path: 44962-h/images/cover-page.jpg
+description: ''
+gutenberg_issued: '2014-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44962'
+  lccn: '17031059'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry -- 1783-1850 -- Bibliography'
+- !lcsh 'American poetry -- Colonial period, ca. 1600-1775 -- Bibliography'
+- !lcc 'Z'
+- !lcsh 'American poetry -- Revolutionary period, 1775-1783 -- Bibliography'
+title: 'Early American Poetry 1610-1820: A List of Works in the New York Public Library'
+url: http://www.gutenberg.org/ebooks/44962
